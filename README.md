@@ -5,8 +5,8 @@ Project Creation date : 14th August 2023
 Udacity-datascience-nanodegree
 
 ### Description
-This project uses Python to understand US bike-share data. 
-It creates an interactive Python environment that lets users explore given datasets from three cities (Chicago, New York City, and Washington) to analyze statistics associated with data.
+This project uses Python capabilities to understand US bike-share data. 
+It creates an interactive Python environment that lets users explore given datasets from three different cities (Chicago, New York City, and Washington) to analyze statistics associated with this data.
 It will help us to understand usage patterns for bike-sharing systems in some major cities of the United States.
 
 ### Files used
